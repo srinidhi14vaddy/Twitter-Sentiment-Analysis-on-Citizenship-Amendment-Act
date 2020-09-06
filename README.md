@@ -1,4 +1,4 @@
-# Twitter-Sentiment-Analysis-on-Citizenship-Amendment-Act
+
 <h1>Twitter Sentiment Analysis on Citizenship Amendment Act (CAA)<h1>
 <h3>Introduction</h3>
 <p>The Citizenship Amendment Bill, now called The Citizenship Amendment Act (CAA) was passed on December 11, 2019 by the Lok Sabha of Indian Parliament. The Act extends Indian citizenship to illegal immigrants belonging to the Hindu, Christian, Buddhist, Parsi, Sikh and/or Jain communities, who arrived from Pakistan, Bangladesh or Afghanistan. The extension of this provision to immigrants is only pertinent provided they arrived into the country on or before December 31, 2014.</p> <br>
